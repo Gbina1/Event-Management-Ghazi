@@ -7,3 +7,8 @@ An example of the Events that can be organized using the program is Conferences,
 
 This is my UML Diagram where there are 4 normal classes and 1 Abstract class, the normal classes are Conference, Wedding, Meetup and Event Management and the abstract class is Event.
 
+<img width="443" alt="image" src="https://github.com/Gbina1/Event-Management-Ghazi/assets/148693022/b7fde370-5482-4536-89aa-bd1653245842">
+
+This is my code for task 2 where i followed all the steps and watched the video in the lab materials but still got the wrong outcome after getting to the run as an Eclipse Application part.
+
+I was Unable to continue Task3 and Task4 because of the issue that i got stuck on in Task2.
